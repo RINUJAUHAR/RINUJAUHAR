@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 RINU JAUHAR
-<p align="center">
-<img src="https://user-images.githubusercontent.com/107692147/175299559-384aad34-17b4-468d-9f84-4f001e2138e6.jpg" />
-</p>
+
