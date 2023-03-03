@@ -17,5 +17,9 @@
 - 📄 Know about my experiences [Rusume coming soon](Rusume coming soon)
 
 - 🤯 Fun fact **Errors Are My Best Tutors😎**
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rinu-jauhar-840891263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinu-jauhar-840891263" height="30" width="40" /></a>
+
 
 
