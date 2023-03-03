@@ -1,9 +1,4 @@
-### Hi there 👋
 
-
-**RINUJAUHAR/RINUJAUHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rinu Jauhar</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
