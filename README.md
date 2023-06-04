@@ -14,7 +14,7 @@
 
 - 📫 How to reach me  [https://www.linkedin.com/in/rinu-jauhar-840891263](https://www.linkedin.com/in/rinu-jauhar-840891263)
 
-- 📄 Know about my experiences [Rusume coming soon](Rusume coming soon)
+- 📄 Know about my experiences [Resume coming soon](Resume coming soon)
 
 - 🤯 Fun fact **Errors Are My Best Tutors😎**
 - <h3 align="left">Connect with me:</h3>
