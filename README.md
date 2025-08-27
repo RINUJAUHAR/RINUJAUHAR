@@ -23,13 +23,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinujauhar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinujauhar&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinujauhar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
 ---
 
 ### 🌍 Connect With Me  
@@ -37,7 +31,7 @@
 <a href="https://www.linkedin.com/in/rinu-jauhar-840891263" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
 </a>
-<a href="mailto:rinujauhar@example.com">
+<a href="mailto:rinujauhar@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
 </p>
