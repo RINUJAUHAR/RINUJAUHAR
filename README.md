@@ -1,22 +1,50 @@
-
 <h1 align="center">Hi 👋, I'm Rinu Jauhar</h1>
-<h3 align="center">A passionate coder and developer from India</h3>
+<h3 align="center">🚀 Passionate Developer | AI & GenAI Enthusiast | Problem Solver</h3>
 
+---
 
-- 🌱 I’m currently learning **Node Js**
+### 🌟 About Me  
+- 🔭 Currently diving deep into **Generative AI** to solve **real-world problems**  
+- 💻 Experienced in **Python, C, C++**  
+- 🖥️ Familiar with **Linux, Windows, MATLAB, Simulink**  
+- 💬 Ask me about **Python, C and C++**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rinu-jauhar-840891263)  
+- ⚡ Fun fact: *Errors are my best tutors 😎*  
 
-- 🤝 I’m looking for help **CNN**
+---
 
-- 💬 Ask me about **C,PYTHON**
+### 🛠️ Languages & Tools  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,matlab,git,vscode,github" />  
+</p>
 
-- 📫 How to reach me  [https://www.linkedin.com/in/rinu-jauhar-840891263](https://www.linkedin.com/in/rinu-jauhar-840891263)
+---
 
-- 📄 Know about my experiences [Resume coming soon](Resume coming soon)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinujauhar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinujauhar&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-- 🤯 Fun fact **Errors Are My Best Tutors😎**
-- <h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinujauhar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🌍 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/rinu-jauhar-840891263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinu-jauhar-840891263" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rinu-jauhar-840891263" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
+</a>
+<a href="mailto:rinujauhar@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
+</a>
+</p>
 
+---
 
+### ✨ Quote I Follow  
+> *"The best way to predict the future is to invent it." – Alan Kay*
 
+---
