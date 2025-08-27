@@ -31,9 +31,6 @@
 <a href="https://www.linkedin.com/in/rinu-jauhar-840891263" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
 </a>
-<a href="mailto:rinujauhar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
-</a>
 </p>
 
 ---
